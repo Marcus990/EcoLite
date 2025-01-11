@@ -1,3 +1,5 @@
+# EcoLite
+
 EcoLite is a website designed to raise awareness around global environmental and sustainability issues through an informative and engaging
 web-based approach
 
